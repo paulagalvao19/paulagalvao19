@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw3e3HgxlUjg5CjgaEPL7XoF&ust=1734535366842000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDwsfSNr4oDFQAAAAAdAAAAABAE)" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AC_Programming_Language.svg&psig=AOvVaw3Z1aDU7Kc8rN5pKDkmPpfA&ust=1734535409064000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjBgoiOr4oDFQAAAAAdAAAAABAE)" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
 
 ###
