@@ -21,11 +21,11 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.w3.org%2Fhtml%2Flogo%2F&psig=AOvVaw3BnXC4SrahbcTleVzrbYPU&ust=1734535273715000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDbwseNr4oDFQAAAAAdAAAAABAE)" height="40" alt="html logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM9PeWvphnXOtwq5lJ_uyuXs6mugQ0Dhqxxw&s)" height="40" alt="Java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw3e3HgxlUjg5CjgaEPL7XoF&ust=1734535366842000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDwsfSNr4oDFQAAAAAdAAAAABAE)" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
