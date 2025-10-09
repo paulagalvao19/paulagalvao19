@@ -4,13 +4,6 @@
 
 <p align="left">Meu nome é Paula Galvão, sou estudante de Ciência da Computação</p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨Tenho 22 anos.<br>📚 Estou agora aprendendo python<br></p>
 
 ###
 
