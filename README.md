@@ -18,6 +18,7 @@ Currently building projects involving:
 - End-to-end Data Science projects
 - Machine Learning pipelines
 - Databricks & Data Engineering
+- Technical portfolio in English
 
 ---
 
@@ -29,6 +30,25 @@ Python · SQL · Pandas · NumPy · scikit-learn · Databricks · Power BI · AW
 
 ## 📌 Featured Projects
 
-- Recommendation System Diversity Analysis
-- Netflix Content Decision Model
-- Financial Data Analysis Pipeline
+- [Algorithmic Personalization Analysis](https://github.com/paulagalvao19/algorithmic-personalization-analysis)
+- [YouTube Recommendation Diversity Analysis](https://github.com/paulagalvao19/youtube-recommendation-diversity-analysis)
+- [Netflix Content Decision Model](https://github.com/paulagalvao19/netflix-content-decision-model)
+- [Financial Data Analysis Pipeline](https://github.com/paulagalvao19/financial-data-analysis-pipeline)
+
+---
+
+## 📚 Currently Learning
+
+- Databricks Data Engineering
+- Machine Learning pipelines
+- Recommendation Systems
+- NLP with Transformers
+- Data Engineering fundamentals
+
+---
+
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/paulagalvaoes)
+- [GitHub](https://github.com/paulagalvao19)
