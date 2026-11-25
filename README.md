@@ -23,7 +23,7 @@ Python · SQL · pandas · NumPy · scikit-learn · Databricks · Power BI · AW
 
 - [Algorithmic Personalization Analysis](https://github.com/paulagalvao19/algorithmic-personalization-analysis)
 - [YouTube Recommendation Diversity Analysis](https://github.com/paulagalvao19/youtube-recommendation-diversity-analysis)
-- [Global Sales Dashboard](https://github.com/paulagalvao19/power-bi-global-sales-dashboard) — Interactive Power BI dashboard built with a fictional sales dataset.
+- [Global Sales Dashboard](https://github.com/paulagalvao19/power-bi-global-sales-dashboard) 
 - [Netflix Content Decision Model](https://github.com/paulagalvao19/netflix-content-decision-model)
 - [Financial Data Analysis Pipeline](https://github.com/paulagalvao19/financial-data-analysis-pipeline)
 
