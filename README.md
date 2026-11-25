@@ -1,52 +1,39 @@
 # Hey, I'm Paula Galvão 👋
 
-Computer Science student focused on **Data Science, Machine Learning, and Data Engineering**.
+I'm a **Data Scientist** focused on **Data Science, Machine Learning, and Data Engineering**. I build projects that turn raw data into analyses, models, and dashboards.
 
-Currently building projects involving:
+## What I Build
 
-- Python
-- SQL
-- Databricks
-- Power BI
-- Machine Learning
-- Data Pipelines
-
----
+- Data analysis and visualization with Python, SQL, and Power BI
+- Machine learning projects for sentiment analysis and recommendation systems
+- Data pipelines for cleaning, transforming, and preparing datasets
 
 ## 🚀 Current Focus
 
-- End-to-end Data Science projects
-- Machine Learning pipelines
-- Databricks & Data Engineering
-- Technical portfolio in English
-
----
+- Building end-to-end data science projects, from data preparation to model evaluation
+- Developing reproducible machine learning pipelines
+- Applying data engineering concepts in Databricks
+- Documenting my projects in English
 
 ## 🛠️ Tech Stack
 
-Python · SQL · Pandas · NumPy · scikit-learn · Databricks · Power BI · AWS · Git
-
----
+Python · SQL · pandas · NumPy · scikit-learn · Databricks · Power BI · AWS · Git
 
 ## 📌 Featured Projects
 
 - [Algorithmic Personalization Analysis](https://github.com/paulagalvao19/algorithmic-personalization-analysis)
 - [YouTube Recommendation Diversity Analysis](https://github.com/paulagalvao19/youtube-recommendation-diversity-analysis)
+- [Global Sales Dashboard](https://github.com/paulagalvao19/power-bi-global-sales-dashboard) — Interactive Power BI dashboard built with a fictional sales dataset.
 - [Netflix Content Decision Model](https://github.com/paulagalvao19/netflix-content-decision-model)
 - [Financial Data Analysis Pipeline](https://github.com/paulagalvao19/financial-data-analysis-pipeline)
 
----
-
 ## 📚 Currently Learning
 
-- Databricks Data Engineering
-- Machine Learning pipelines
-- Recommendation Systems
-- NLP with Transformers
-- Data Engineering fundamentals
-
----
-
+- Data engineering with Databricks
+- Machine learning pipeline design
+- Recommendation systems and diversity metrics
+- Natural language processing with Transformers
+- Data engineering fundamentals
 
 ## 📫 Contact
 
